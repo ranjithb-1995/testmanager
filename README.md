@@ -1,2 +1,0 @@
-# testmanager
-practise
